@@ -1,0 +1,12 @@
+D:\Development(Piush)\VB DLL\20-4-2013\SRE_Windows\SRE_Windows\obj\Debug\ResolveAssemblyReference.cache
+D:\Development(Piush)\VB DLL\20-4-2013\SRE_Windows\SRE_Windows\obj\Debug\SRE_Windows.Resources.resources
+D:\Development(Piush)\VB DLL\20-4-2013\SRE_Windows\SRE_Windows\obj\Debug\GenerateResource.read.1.tlog
+D:\Development(Piush)\VB DLL\20-4-2013\SRE_Windows\SRE_Windows\obj\Debug\GenerateResource.write.1.tlog
+D:\Development(Piush)\VB DLL\20-4-2013\SRE_Windows\SRE_Windows\bin\Debug\SRE_Windows.dll
+D:\Development(Piush)\VB DLL\20-4-2013\SRE_Windows\SRE_Windows\bin\Debug\SRE_Windows.pdb
+D:\Development(Piush)\VB DLL\20-4-2013\SRE_Windows\SRE_Windows\bin\Debug\SRE_Windows.xml
+D:\Development(Piush)\VB DLL\20-4-2013\SRE_Windows\SRE_Windows\obj\Debug\SRE_Windows.dll
+D:\Development(Piush)\VB DLL\20-4-2013\SRE_Windows\SRE_Windows\obj\Debug\SRE_Windows.xml
+D:\Development(Piush)\VB DLL\20-4-2013\SRE_Windows\SRE_Windows\obj\Debug\SRE_Windows.pdb
+D:\Development(Piush)\VB DLL\20-4-2013\SRE_Windows\SRE_Windows\bin\Debug\EPocalipse.IFilter.dll
+D:\Development(Piush)\VB DLL\20-4-2013\SRE_Windows\SRE_Windows\bin\Debug\EPocalipse.IFilter.pdb

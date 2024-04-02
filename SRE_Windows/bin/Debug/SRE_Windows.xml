@@ -1,0 +1,46 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SRE_Windows
+</name>
+</assembly>
+<members>
+<member name="M:SRE_Windows.SRE_Windows.searchResult(System.String,System.String,System.String,System.String,System.Boolean)">
+	<summary>
+ Function to search topics in Windows and return result as DataTable
+ </summary>
+	<param name="path1"></param>
+	<param name="modifydate"></param>
+	<param name="reqID"></param>
+	<param name="findText"></param>
+	<param name="newseach"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:SRE_Windows.SRE_Windows.searchResult_XML(System.String,System.String,System.String,System.String,System.String,System.Boolean)">
+	<summary>
+ Function to search topics in Windows and return result as XMLDOCUMENT
+ </summary>
+	<param name="path2"></param>
+	<param name="modifydate"></param>
+	<param name="reqID"></param>
+	<param name="findText"></param>
+	<param name="newseach"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:SRE_Windows.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:SRE_Windows.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:SRE_Windows.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
